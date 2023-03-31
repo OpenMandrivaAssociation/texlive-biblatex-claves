@@ -1,6 +1,6 @@
 Name:		texlive-biblatex-claves
 Version:	43723
-Release:	1
+Release:	2
 Summary:	A tool to manage claves of old litterature with BibLaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-claves
