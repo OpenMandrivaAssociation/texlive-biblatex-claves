@@ -3,7 +3,7 @@ Version:	43723
 Release:	2
 Summary:	A tool to manage claves of old litterature with BibLaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-claves
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-claves
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/biblatex-claves.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/biblatex-claves.doc.r%{version}.tar.xz
